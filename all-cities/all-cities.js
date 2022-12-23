@@ -50,7 +50,11 @@ for (let city in cities){
     widgetContainer.append(clear);
 
     clear.addEventListener('click', function(){
-      widgetContainer.remove();
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth',
+      })
+      setTimeout(()=>widgetContainer.remove(), 500)
     })
     
     let scrollHeight = goHome.getBoundingClientRect().top;
