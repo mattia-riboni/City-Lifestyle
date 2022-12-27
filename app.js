@@ -90,6 +90,7 @@ searchBtn.addEventListener('click', function(){
         top: 200,
         behavior: 'smooth',
       });
+      console.log(error);
     })
   };
 });
