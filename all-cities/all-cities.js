@@ -1,6 +1,6 @@
 //importing json data
 
-import cities from "../assets/all-cities.JSON" assert {type: 'json'};
+import cities from "../assets/JSON/all-cities.JSON" assert {type: 'json'};
 
 const cityList = document.getElementById('city-list');
 let widgetContainer = document.createElement('div');
