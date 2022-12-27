@@ -1,7 +1,7 @@
 # Mattia Riboni's counter
 ---
 Try it:
-[COUNTER](https://unrivaled-sundae-31de11.netlify.app/index.html)
+[APP](https://unrivaled-sundae-31de11.netlify.app/index.html)
 
   
 
