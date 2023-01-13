@@ -1,4 +1,4 @@
-# Mattia Riboni's counter
+# Mattia Riboni's Javascript Advanced Lifestyle Project
 ---
 Try it:
 [APP](https://unrivaled-sundae-31de11.netlify.app/index.html)
